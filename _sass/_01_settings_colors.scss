@@ -2,9 +2,9 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color:       	#0B5997;
+$text-color:       	#0D2A48;
 $body-font-color: 	$text-color;
-$body-bg: 			#0D2A48;
+$body-bg: 			#0B5997;
 
 
 
@@ -65,7 +65,7 @@ $topbar-bg: $topbar-bg-color;
 $topbar-dropdown-toggle-color: #B80600;
 
 $topbar-link-color: #000;
-$topbar-link-color-hover: $ci-1;
+$topbar-link-color-hover: $ci-2;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: $ci-6;
 
@@ -81,12 +81,12 @@ $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
+$topbar-menu-link-color-toggled: $ci-2;
+$topbar-menu-icon-color-toggled: #000;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-icon-color-toggled: #000;
 
 
 
@@ -109,7 +109,7 @@ $subfooter-link-color: $grey-8;
 
 $code-background-color: scale-color($ci-6, $lightness: 70%);
 
-$highlight-background: #B80600;
+$highlight-background: $ci-1;
 $highlight-comment: #999988;
 $highlight-error: #a61717;
 $highlight-comment-special: #999999;
