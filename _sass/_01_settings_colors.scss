@@ -1,18 +1,4 @@
 @charset "utf-8";
-/* TOC – Color Variables
-
-- Basics
-- Corporate Identity Colorpalette
-- Foundation Color Variables
-- Grey Scale
-- Topbar-Navigation
-- Footer
-- Code
-
-*/
-
-
-
 /* Basics
 ------------------------------------------------------------------- */
 
@@ -123,7 +109,7 @@ $subfooter-link-color: $grey-8;
 
 $code-background-color: scale-color($ci-6, $lightness: 70%);
 
-$highlight-background: #0D2A48;
+$highlight-background: #B80600;
 $highlight-comment: #999988;
 $highlight-error: #a61717;
 $highlight-comment-special: #999999;
