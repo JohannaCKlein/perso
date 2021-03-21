@@ -121,7 +121,7 @@ $subfooter-link-color: $grey-8;
 /* Code
 ------------------------------------------------------------------- */
 
-$code-background-color: scale-color(#0D2A48, $lightness: 70%);
+$code-background-color: scale-color($ci-6, $lightness: 70%);
 
 $highlight-background: #0D2A48;
 $highlight-comment: #999988;
