@@ -4,7 +4,7 @@ title: "Contact"
 meta_title: "Contact and use our contact form"
 permalink: "/contact/"
 ---
-Use the contact form or send me an e-mail at: [johanna.klein@sorbonne-universite.fr](mailto:johanna.klein@sorbonne-universite.fr)
+Use the contact form below or send me an e-mail at: [johanna.klein@sorbonne-universite.fr](mailto:johanna.klein@sorbonne-universite.fr)
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form
