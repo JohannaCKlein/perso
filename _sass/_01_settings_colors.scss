@@ -26,12 +26,12 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #022c43;		// dark blue
-$ci-2: #d8ebe4;		// light blue
-$ci-3: #ff7f66;		// salmon orange
-$ci-4: #86e1a2;		// water light green
-$ci-5: #ffffff;		// white
-$ci-6: #000000;      // black
+$ci-1: #0D2A48;		
+$ci-2: #0B5997;		
+$ci-3: #45CB59;		
+$ci-4: #CBE1CB;		
+$ci-5: #D2EEE5;		
+$ci-6: #FF6863;     
 
 
 
@@ -39,11 +39,11 @@ $ci-6: #000000;      // black
 ------------------------------------------------------------------- */
 
 $primary-color: $ci-1;
-$secondary-color: $ci-2;
-$alert-color: $ci-3;
-$success-color: $ci-4;
-$warning-color: $ci-5;
-$info-color: $ci-6;
+$secondary-color: $ci-6;
+$alert-color: $ci-5;
+$success-color: $ci-6;
+$warning-color: $ci-4;
+$info-color: $ci-1;
 
 
 
