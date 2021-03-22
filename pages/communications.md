@@ -7,4 +7,5 @@ header:
 permalink: "/work/communications"
 ---
 
-1. [Journées Théorie Modélisation et Simulation 2020 (JTMS2020)](https://jtms2020.sciencesconf.org/) : Virtual congress
+1. [Journées Théorie Modélisation et Simulation 2020 (JTMS2020)](https://jtms2020.sciencesconf.org/) : Virtual congress ; poster presentation  
+*New insights in chemical reactivity from quantum chemical topology*
