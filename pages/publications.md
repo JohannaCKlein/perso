@@ -7,7 +7,7 @@ teaser:
 header:
   image_fullwidth: home_pagel.jpeg
 image:
-    title: ORCID.jpg
+    title: ORCID.png
     caption: Unsplash.com
     caption_url: http://unsplash.com
 permalink: "/work/publications/"
