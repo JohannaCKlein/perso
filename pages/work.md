@@ -10,4 +10,4 @@ permalink: "/work/"
 
 Follow these links if you want to know more about:
 - [Publications]({{ site.baseurl }}/work/publications/)
-- [Oral Communications]({{ site.baseurl }}/work/communications/) that I made
+- [Oral Communications]({{ site.baseurl }}/work/communications/)
