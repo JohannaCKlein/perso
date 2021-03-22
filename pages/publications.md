@@ -2,8 +2,8 @@
 layout: page
 show_meta: false
 title: "Publications"
-header: 
-   title: Publications
+header:
+  image_fullwidth: home_pagel.jpeg
 permalink: "/work/publications/"
 ---
 
