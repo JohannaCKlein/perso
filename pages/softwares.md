@@ -4,7 +4,7 @@ show_meta: false
 title: "Software Packages"
 header:
   image_fullwidth: home_pagel.jpeg
-permalink: "/work/software/"
+permalink: "/software/"
 ---
 
 Follow this link if you want to know more about:
