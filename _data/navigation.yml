@@ -16,6 +16,9 @@
     url: "/work/communications/"
   - title: "Software packages"
     url: "/work/software/"
+    dropdown:
+    - title: "IGMPlot"
+      url: "/work/software/igmplot/"
     
 - title: "Tips & Tricks"
   url: "/tips/"
