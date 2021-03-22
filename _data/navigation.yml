@@ -12,6 +12,8 @@
   dropdown:
   - title: "Publications"
     url: "/work/publications/"
+  - title: "Oral communications"
+    url: "/work/communications/"
   - title: "Software packages"
     url: "/work/software/"
 
