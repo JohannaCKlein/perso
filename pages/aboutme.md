@@ -6,6 +6,11 @@ meta_title: "About"
 permalink: "/aboutme/"
 header:
   image_fullwidth: home_pagel.jpeg
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
+  style: alert
+permalink: /index.html
 ---
 
 <style>
